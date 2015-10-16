@@ -2,10 +2,10 @@
 {{ page.content | markdownify }}
 
 <ul>
-  {% for recipe in site.recipes %}
-    <li>
-      <a href="{{ recipe.url }}">{{ recipe.title }}</a>
-    </li>
-  {% endfor %}
+{% assign sorted_pages = (site.recipes | sort: 'title') %}
+{% for page in sorted_pages %}
+	<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endfor %}
 </ul>
+
 {% include footer.html %}
