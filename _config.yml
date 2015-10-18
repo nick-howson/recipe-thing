@@ -11,6 +11,5 @@ encoding: utf-8
 collections:
  recipes:
    output: true
-
 # Build settings
 exclude: ["start_devserver.bat", "Gemfile", "Gemfile.lock"]
