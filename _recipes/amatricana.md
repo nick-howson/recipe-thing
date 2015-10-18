@@ -7,6 +7,7 @@ prepunits: minutes
 cooktime: 25
 cookunits: minutes
 serves: 4
+tags: italian
 ---
 #Ingedients
 * 1 tablespoon olive oil

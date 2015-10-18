@@ -1,3 +1,11 @@
 {% include head.html %}
-{{ page.content | markdownify }}
+<body>
+ {% include navbar.html %}
+ <div class="container">
+ {% for recipe in site.recipes %}
+     {{ tags }}
+ {% endfor %}
+ {{ page.content | markdownify }}
+ </div><!-- /.container -->
+</body>
 {% include footer.html %}

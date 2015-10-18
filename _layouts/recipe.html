@@ -1,7 +1,12 @@
 {% include head.html %}
-<p>Preperation time: {{ page.preptime}} {{ page.prepunits}}</p>
-<p>Cooking time: {{ page.cooktime}} {{ page.cookunits}}</p>
-<p>Servings: {{ page.serves }}</p>
-{{ page.content | markdownify }}
-
+<body>
+ {% include navbar.html %}
+ <div class="container">
+  <h1>{{ page.title }}</h1>
+  <p>Preperation time: {{ page.preptime }} {{ page.prepunits }}</p>
+  <p>Cooking time: {{ page.cooktime }} {{ page.cookunits }}</p>
+  <p>Servings: {{ page.serves }}</p>
+  {{ page.content | markdownify }}
+ </div><!-- /.container -->
+</body>
 {% include footer.html %}

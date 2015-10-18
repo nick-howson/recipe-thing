@@ -7,7 +7,7 @@ prepunits: minutes
 cooktime: 20
 cookunits: minutes
 serves: 30
-tags: [biscuit, australian, snack]
+tags: biscuit australian snack
 ---
 #Ingedients
 * 1.5 cups (135g) traditional rolled oats

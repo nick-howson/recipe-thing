@@ -1,11 +1,13 @@
 {% include head.html %}
-{{ page.content | markdownify }}
-
-<ul>
-{% assign sorted_pages = (site.recipes | sort: 'title') %}
-{% for page in sorted_pages %}
-	<li><a href="{{ page.url }}">{{ page.title }}</a></li>
-{% endfor %}
-</ul>
-
+<body>
+ {% include navbar.html %}
+ <div class="container">
+ {{ page.content | markdownify }}
+ <ul>
+  {% assign sorted_pages = (site.recipes | sort: 'title') %}
+  {% for page in sorted_pages %}
+  <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
+ </ul>
+ </div><!-- /.container -->
+</body>
 {% include footer.html %}
