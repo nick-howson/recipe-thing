@@ -9,17 +9,17 @@ cookunits: minutes
 serves: 4
 tags: italian
 ingredients: |
-  #Ingredients
-  * 1 tablespoon olive oil
-  * 1 medium brown onion, finely chopped
-  * 2 garlic cloves, crushed
-  * 2 tablespoons tomato paste
-  * 2 x 400g cans diced tomatoes
-  * 1/4 cup finely chopped fresh parsley
-  * 8 slices (125g) prosciutto, chopped
-  * 1 small red chilli, finely chopped
-  * 1/4 cup finely chopped fresh flat-leaf parsley leaves
-  * Pasta
+ #Ingredients
+ * 1 tablespoon olive oil
+ * 1 medium brown onion, finely chopped
+ * 2 garlic cloves, crushed
+ * 2 tablespoons tomato paste
+ * 2 x 400g cans diced tomatoes
+ * 1/4 cup finely chopped fresh parsley
+ * 8 slices (125g) prosciutto, chopped
+ * 1 small red chilli, finely chopped
+ * 1/4 cup finely chopped fresh flat-leaf parsley leaves
+ * Pasta
 ---
 #Directions
 1. Heat oil in a saucepan over medium heat. Add onion, prosciutto, chilli flakes and garlic. Cook, stirring occasionally, for 5 minutes or until onion has softened.

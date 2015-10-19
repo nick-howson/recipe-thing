@@ -9,21 +9,16 @@
 <body>
  {% include navbar.html %}
 <div class="container">
- <h1>{{ page.title }}</h1>
+ <div class="row">
+  <div class="col-md-12"><h1>{{ page.title }}</h1></div>
+ </div>
  <div class="row">
   <div class="col-md-4 text-center"><p>Preperation time: {{ page.preptime }} {{ page.prepunits }}</p></div>
   <div class="col-md-4 text-center"><p>Cooking time: {{ page.cooktime }} {{ page.cookunits }}</p></div>
   <div class="col-md-4 text-center"><p>Servings: {{ page.serves }}</p></div>
  </div>
  <div class="row">
-  <div class="col-md-7">
-   <div class="col-md-12">
-    <div>{% for ingredients in page.ingredients %}{{ ingredients | markdownify }}{% endfor %}</div>
-   </div>
-  </div>
-  <div class="col-md-5" style="padding: 10px;">
-   <img src="http://www.taste.com.au/images/recipes/sfi/2009/05/22517_l.jpg" class="img-responsive"></img>
-  </div>
+  <div class="col-md-12">{% for ingredients in page.ingredients %}{{ ingredients | markdownify }}{% endfor %}</div>
  </div>
  <div class="row">
   <div class="col-md-12">{{ page.content | markdownify }}</div> 

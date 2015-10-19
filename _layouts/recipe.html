@@ -1,12 +1,21 @@
 {% include head.html %}
 <body>
  {% include navbar.html %}
- <div class="container">
-  <h1>{{ page.title }}</h1>
-  <p>Preperation time: {{ page.preptime }} {{ page.prepunits }}</p>
-  <p>Cooking time: {{ page.cooktime }} {{ page.cookunits }}</p>
-  <p>Servings: {{ page.serves }}</p>
-  {{ page.content | markdownify }}
- </div><!-- /.container -->
+<div class="container">
+ <div class="row">
+  <div class="col-md-12"><h1>{{ page.title }}</h1></div>
+ </div>
+ <div class="row">
+  <div class="col-md-4"><p>Preperation time: {{ page.preptime }} {{ page.prepunits }}</p></div>
+  <div class="col-md-4"><p>Cooking time: {{ page.cooktime }} {{ page.cookunits }}</p></div>
+  <div class="col-md-4"><p>Servings: {{ page.serves }}</p></div>
+ </div>
+ <div class="row">
+  <div class="col-md-12">{% for ingredients in page.ingredients %}{{ ingredients | markdownify }}{% endfor %}</div>
+ </div>
+ <div class="row">
+  <div class="col-md-12">{{ page.content | markdownify }}</div> 
+ </div>
+</div><!-- /.container -->
 </body>
 {% include footer.html %}
