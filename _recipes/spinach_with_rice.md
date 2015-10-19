@@ -13,7 +13,7 @@ tags: []
 * 1kg spinach or silver beet
 * 1 cup chopped spring onions
 * 1 leek, chopped (optional)
-* 1/2 cup olive oil
+* &frac12; cup olive oil
 * 1.5 cups short grain rice
 * 2 tablespoons lemon juice
 * 1 tablespoon chopped parsley or dill

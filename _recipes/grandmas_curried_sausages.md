@@ -17,7 +17,7 @@ tags: []
 * 1 cup (250ml) Campbell's Real Stock Beef
 * 400g can diced tomatoes
 * 1 cup (150g) frozen peas
-* 1/2 cup sultanas
+* &frac12; cup sultanas
 * Serve with naan or rice
 
 #Directions

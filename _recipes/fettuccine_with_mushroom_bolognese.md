@@ -21,7 +21,7 @@ tags: []
 * 350 g Coles Brand Fettuccine
 * 3 tbsp Extra Virgin Olive Oil
 * 1 loosely packed cup Fresh Basil Leaves, torn
-* 1/4 cup Coles Brand Australian Parmesan Cheese Shredded
+* &frac14; cup Coles Brand Australian Parmesan Cheese Shredded
 
 #Directions
 1. Heat the olive oil in a large frying pan until hot. Cook onion and garlic for 2 mins, then add the carrot and cook for 1 min, or until just softened. Add mushrooms and cook for 2 mins. Season with salt and pepper.

@@ -10,7 +10,7 @@ serves: 6
 tags: []
 ---
 #Ingedients
-* 1/2 cup pecans
+* &frac12; cup pecans
 * 1 tbsp lemon juice
 * 2 stalks celery, finely sliced diagonally
 * 75 g spinach leaves

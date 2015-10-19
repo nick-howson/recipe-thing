@@ -12,13 +12,13 @@ tags: []
 #Ingedients
 * 1 tablespoon of corn starch
 * 2 fl oz (60 ml) of vegetable oil
-* 1/2 onion (sliced)
+* &frac12; onion (sliced)
 * a handful of bean sprouts
-* 1/2 red pepper (sliced)
+* &frac12; red pepper (sliced)
 * 1 spring onion (sliced)
 * 2 minced garlic cloves
 * 2 whisked eggs
-* 1 1/2 tablespoons of curry powder
+* 1 &frac12; tablespoons of curry powder
 * salt and pepper
 * coriander (for garnishing)
 

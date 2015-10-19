@@ -16,12 +16,12 @@ tags: []
 * 1 cup unsulfured molasses
 * 6 cups sifted all-purpose flour 
 * 1 teaspoon baking soda 
-* 1/2 teaspoon baking powder 
+* &frac12; teaspoon baking powder 
 * 4 teaspoons ground ginger 
 * 4 teaspoons ground cinnamon 
-* 1-1/2 teaspoons ground cloves 
-* 1/2 teaspoon finely ground black pepper 
-* 1-1/2 teaspoons salt 
+* 1-&frac12; teaspoons ground cloves 
+* &frac12; teaspoon finely ground black pepper 
+* 1-&frac12; teaspoons salt 
 * Raisins and/or red hot candies for decoration (optional)
 * Royal Icing for decoration (optional)
 

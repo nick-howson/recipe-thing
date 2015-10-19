@@ -13,10 +13,10 @@ tags: stir-fry vegetarian egg noodle
 * 100g dried rice vermicelli noodles
 * 8 eggs
 * 2 green onions, finely chopped
-* 1 1/2 tablespoons vegetable oil
+* 1 &frac12; tablespoons vegetable oil
 * 2 garlic cloves, crushed
 * 2cm piece fresh ginger, peeled, finely grated
-* 1/2 x 800g packet frozen Shanghai stir-fry vegetable mix (see note)
+* &frac12; x 800g packet frozen Shanghai stir-fry vegetable mix (see note)
 * 1 tablespoon Chang's oyster sauce
 * 2 teaspoons sesame oil
 * 1 tablespoon soy sauce

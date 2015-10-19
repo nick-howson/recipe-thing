@@ -11,7 +11,7 @@ tags: []
 ---
 #Ingedients
 * 90 gms butter
-* 1/3 cups sugar
+* &#8531; cups sugar
 * 1 egg
 * 1 cup self-raising flour
 * 1 tsp vanilla essence

@@ -12,7 +12,7 @@ tags: []
 #Ingedients
 * 3 eggs
 * 1 cup low-fat milk
-* 1/3 cup sugar
+* &#8531; cup sugar
 * 8 slices bread (can be stale)
 * 2 tbsp butter/low fat margarine
 * dried fruit or choc chips (optional)

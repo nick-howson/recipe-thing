@@ -11,7 +11,7 @@ tags: []
 ---
 #Ingedients
 * 300g firm tofu, cut into thin strips
-* 60ml (1/4 cup) mirin (rice wine)
+* 60ml (&frac14; cup) mirin (rice wine)
 * 2 tablespoons salt-reduced soy sauce
 * 2 teaspoons finely grated fresh ginger
 * 1 teaspoon caster sugar

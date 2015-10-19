@@ -15,7 +15,7 @@ tags: [italian, sauce]
 * 2 garlic cloves, crushed
 * 2 tablespoons tomato paste
 * 2 400g cans diced tomatoes
-* 1/4 cup finely chopped fresh basil leaves
+* &frac14; cup finely chopped fresh basil leaves
 
 #Directions
 1. Heat oil in a saucepan over medium heat. Add onion and garlic. Cook, stirring occasionally, for 5 minutes or until onion has softened.

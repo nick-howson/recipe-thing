@@ -14,10 +14,10 @@ tags: []
 * 25 gms butter
 * 1 onion chopped
 * 200 gms mushrooms sliced
-* 1 1/2 cups arborio rice
-* 1/4 cups white wine optional
+* 1 &frac12; cups arborio rice
+* &frac14; cups white wine optional
 * 4 cups vegetable stock (liquid) hot
-* 1/3 cups parmesan cheese
+* &#8531; cups parmesan cheese
 * 1 tbs dried parsley
 * 25 gms butter optional
 * 1 tsp pepper optional

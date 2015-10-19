@@ -16,7 +16,7 @@ tags: []
 * 2 bacon rashers, chopped
 * 1 carrot, peeled and grated
 * 2 shallots, trimmed, finely sliced
-* 1/2 cup frozen peas, thawed
+* &frac12; cup frozen peas, thawed
 * 1 tablespoon soy sauce, plus extra to serve
 
 #Directions

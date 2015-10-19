@@ -14,7 +14,7 @@ tags: []
 * Lemon zest
 * 1 tsp dried oregano
 * 20 medium shrimp, tail on
-* 1/2 jar roasted red peppers
+* &frac12; jar roasted red peppers
 * 8-ounces angel hair pasta
 * 1 cup peas
 * Freshly ground black pepper

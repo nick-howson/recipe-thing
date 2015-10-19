@@ -19,10 +19,10 @@ tags: []
 * 1 teaspoon ground coriander
 * 2 tablespoons currants
 * 2 tablespoons chopped fresh continental parsley
-* 80mL (1/3 cup) passata (tomato pasta sauce)
+* 80mL (&#8531; cup) passata (tomato pasta sauce)
 * 2 pieces wholemeal Lebanese bread
 * 1 bunch rocket, trimmed, shredded
-* 130g (1/2 cup) low-fat natural yoghurt
+* 130g (&frac12; cup) low-fat natural yoghurt
 
 #Directions
 1. Preheat oven to 220&deg;C. Heat 2 large baking trays in the oven for 10 minutes.

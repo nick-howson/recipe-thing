@@ -19,9 +19,9 @@ tags: []
 
 ##Dressing
 
-* 1/2 cup olive oil
+* &frac12; cup olive oil
 * 2 tbsp caster sugar
-* 1/4 cup white vinegar
+* &frac14; cup white vinegar
 * 2 tsp curry powder
 * salt and pepper to taste
 

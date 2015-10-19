@@ -10,9 +10,9 @@ serves: 1 cup
 tags: []
 ---
 #Ingedients
-* 1/3 cup hoisin sauce
-* 1/4 cup honey
-* 1/4 cup dark soy sauce
+* &#8531; cup hoisin sauce
+* &frac14; cup honey
+* &frac14; cup dark soy sauce
 * 3 tablespoons dry sherry or 3 tablespoons chinese shaosing wine
 * 1 teaspoon Chinese five spice powder
 

@@ -20,7 +20,7 @@ tags: []
 
 * 2 large sweet potato (1kg), chopped coarsley
 * 1 tbsp olive oil
-* 1/2 cup milk
+* &frac12; cup milk
 * 1 tbsp butter
 
 ## Asian Greens

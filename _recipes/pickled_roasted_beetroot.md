@@ -13,7 +13,7 @@ tags: []
 * 1.5kg beetroot bulbs, stems removed
 * 400ml apple cider vinegar
 * 400ml water
-* 240g (1 1/2 cups, lightly packed) brown sugar
+* 240g (1 &frac12; cups, lightly packed) brown sugar
 * 1 teaspoon whole black peppercorns
 * 1 teaspoon whole cloves
 * 1 teaspoon salt

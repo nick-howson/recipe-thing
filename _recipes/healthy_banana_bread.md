@@ -14,7 +14,7 @@ tags: []
 * 1 tsp bicarbonate of soda
 * Pinch of salt
 * 1 tsp ground cinnamon
-* 1/2 cup (110g) caster sugar
+* &frac12; cup (110g) caster sugar
 * 3/4 cup (125g) sultanas (or pitted date - less sugar!)
 * 2 eggs, lightly beaten
 * 1 cup (250mL) reduced fat milk

@@ -15,10 +15,10 @@ tags: italian
 * 2 garlic cloves, crushed
 * 2 tablespoons tomato paste
 * 2 x 400g cans diced tomatoes
-* 1/4 cup finely chopped fresh parsley
+* &frac14; cup finely chopped fresh parsley
 * 8 slices (125g) prosciutto, chopped
 * 1 small red chilli, finely chopped
-* 1/4 cup finely chopped fresh flat-leaf parsley leaves
+* &frac14; cup finely chopped fresh flat-leaf parsley leaves
 * Pasta
 
 #Directions

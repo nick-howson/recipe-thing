@@ -11,8 +11,8 @@ tags: []
 ---
 #Ingedients
 * 250g (1,3/4 cups) wholemeal flour
-* 90g (1/3 cup) dark brown soft sugar
-* 1/2 teaspoon ground cinnamon
+* 90g (&#8531; cup) dark brown soft sugar
+* &frac12; teaspoon ground cinnamon
 * 2 teaspoons baking powder
 * 1 teaspoon bicarbonate of soda
 * 3 ripe bananas, mashed

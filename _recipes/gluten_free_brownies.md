@@ -15,7 +15,7 @@ tags: []
 * 2 tablespoons oil
 * 1 teaspoon vanilla essence
 * 2 tablespoons milk
-* 1/2 cup (60g) cocoa
+* &frac12; cup (60g) cocoa
 * 150g hazelnut or almond meal
 * 3/4 cup (125g) brown sugar
 * 1 teasppon baking powder

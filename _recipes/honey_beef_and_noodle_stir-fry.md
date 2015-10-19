@@ -19,8 +19,8 @@ tags: []
 * 1 medium red capsicum (200g), sliced thinly
 * 115g baby corn, halved lengthways
 * 450g hokkien noodles
-* 1/3 cup (115g) honey
-* 1/3 cup (80mL) teriyaki sauce
+* &#8531; cup (115g) honey
+* &#8531; cup (80mL) teriyaki sauce
 * 1 tablespoon mirin
 
 #Directions

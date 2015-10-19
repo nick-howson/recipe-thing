@@ -11,12 +11,12 @@ tags: []
 ---
 #Ingedients
 * 1 cup polenta
-* 1/2 cup plain flour*
+* &frac12; cup plain flour*
 * 2 tsp baking powder
-* 1/2 cup caster sugar
-* 1/4 tsp ground cinnamon
+* &frac12; cup caster sugar
+* &frac14; tsp ground cinnamon
 * 2 eggs
-* 1/3 cup canola oil
+* &#8531; cup canola oil
 * 1 cup chopped dried dates
 * You can replace plain flour and baking powder with self raising flour
 

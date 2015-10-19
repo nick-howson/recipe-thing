@@ -15,7 +15,7 @@ tags: [biscuit]
 * 1 cup Oats
 * 3 TBSP Brown Sugar
 * 1 Egg White (make it vegan with 1 TBSP ground flaxseed and 3 TBSP water)
-* 1/2 tsp Baking Soda
+* &frac12; tsp Baking Soda
 
 #Directions
 1. Preheat oven to 180&deg;C. 

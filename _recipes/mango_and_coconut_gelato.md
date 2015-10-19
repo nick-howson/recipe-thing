@@ -12,7 +12,7 @@ tags: []
 #Ingedients
 * 1 medium mango (430g), peeled, chopped
 * 375mL Carnation Light and Creamy Coconut Flavoured Evaporated milk, chilled overnight
-* 1/3 cup (75g) caster sugar
+* &#8531; cup (75g) caster sugar
 
 #Directions
 1. Process mango until smooth.

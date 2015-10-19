@@ -19,12 +19,12 @@ tags: []
 * 3 tablespoons chilli powder
 * 1 teaspoon ground cumin
 * 1 teaspoon dried oregano
-* 1/4 teaspoon ground cinnamon
+* &frac14; teaspoon ground cinnamon
 
 ##Other
 
 * 1 boneless pork shoulder roast, 1-1.5kg, fat trimmed
-* 1/2 cup chopped cilantro (corriander leaves)
+* &frac12; cup chopped cilantro (corriander leaves)
 
 #Directions
 1. Combine sauce ingredients in a bowl.

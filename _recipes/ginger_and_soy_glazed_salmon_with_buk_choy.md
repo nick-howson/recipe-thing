@@ -16,7 +16,7 @@ tags: []
 * 1 cup Basmati Rice
 * 1 cube Chicken Stock
 * 1 cup Coconut Milk
-* 1/2 tbsp Salt
+* &frac12; tbsp Salt
 * 1 Shredded Coconut, lightly toasted, for garnish
 
 ## Salmon
@@ -25,9 +25,9 @@ tags: []
 * 2 cloves Garlic, finely chopped
 * 2 tbsp Fresh Ginger, peeled and finely chopped
 * 1 small Red Chilli, seeded and finely chopped
-* 1/4 cup Orange Juice
-* 1/4 cup Soy Sauce
-* 1/4 cup Honey
+* &frac14; cup Orange Juice
+* &frac14; cup Soy Sauce
+* &frac14; cup Honey
 * 1 tbsp Fresh Coriander, chopped
 * 1 tbsp Olive Oil
 * 4 x 200 g Fresh Tasmanian Atlantic Salmon Fillets (skin on)

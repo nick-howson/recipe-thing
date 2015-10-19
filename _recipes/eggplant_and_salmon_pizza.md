@@ -12,7 +12,7 @@ tags: []
 #Ingedients
 * 1 large eggplant, sliced
 * 2 large pita breads
-* 1/2 cup tomato pizza paste
+* &frac12; cup tomato pizza paste
 * 315g smoked salmon
 * 1 tbsp chives, chopped
 

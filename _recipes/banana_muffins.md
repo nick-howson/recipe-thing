@@ -10,7 +10,7 @@ serves: 12
 tags: []
 ---
 #Ingedients
-* 2 1/2 cups self-raising flour
+* 2 &frac12; cups self-raising flour
 * 3/4 cups brown sugar
 * 1 cup milk
 * 1 egg

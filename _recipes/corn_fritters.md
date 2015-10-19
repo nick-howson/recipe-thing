@@ -11,11 +11,11 @@ tags: []
 ---
 #Ingedients
 * 1 cup White Wings Self-Raising Flour
-* 1/2 cup buttermilk
+* &frac12; cup buttermilk
 * 2 eggs
 * 420g can corn kernels, drained
 * 310g can creamed corn
-* 1/4 cup finely chopped chives
+* &frac14; cup finely chopped chives
 * olive oil cooking spray
 * chutney and chopped chives, to serve
 

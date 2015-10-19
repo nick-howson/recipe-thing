@@ -11,7 +11,7 @@ tags: []
 ---
 #Ingedients
 * 175g dried rice stick noodles
-* 1 1/2 tablespoons peanut oil
+* 1 &frac12; tablespoons peanut oil
 * 1 cup chopped fresh coriander
 * 3 garlic cloves, crushed
 * 3 shallots, trimmed, thinly sliced
@@ -19,7 +19,7 @@ tags: []
 * 200g broccoli, trimmed, cut into florets
 * 1 zucchini, sliced
 * 1 small red capsicum, halved, deseeded, thinly sliced
-* 80ml (1/3 cup) kecap manis
+* 80ml (&#8531; cup) kecap manis
 * 2 tablespoons soy sauce
 * 2 tablespoons hot water
 * 1 fresh red chilli, deseeded, thinly sliced

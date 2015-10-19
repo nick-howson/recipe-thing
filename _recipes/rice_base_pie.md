@@ -16,14 +16,14 @@ tags: []
 * 2 cups cold cooked brown rice
 * 1 egg, beaten
 * 2 tbs parmesan cheese, grated
-* 1/2 lemon, juiced and grated rind
+* &frac12; lemon, juiced and grated rind
 * Salt and pepper to taste
 
 ##Contents
 
 * 2 fillets smoked trout
 * 1 onion
-* 1/4 cabbage, shredded
+* &frac14; cabbage, shredded
 
 ##Sauce
 

@@ -11,7 +11,7 @@ tags: []
 ---
 #Ingedients
 * 3 green shallots, trimmed, thinly sliced
-* 60ml (1/4 cup) soy sauce
+* 60ml (&frac14; cup) soy sauce
 * 1 tablespoon brown sugar
 * 1 tablespoon honey
 * 1 garlic clove, crushed

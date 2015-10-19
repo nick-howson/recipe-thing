@@ -10,10 +10,10 @@ serves: 10
 tags: []
 ---
 #Ingedients
-* 1/4 (1kg) seedless watermelon, cut into 3cm cubes
+* &frac14; (1kg) seedless watermelon, cut into 3cm cubes
 * 2 (260g) Lebanese cucumber, seeded, sliced thinly
 * 6 shallots, sliced thinly
-* 1/4 cup chopped fresh mint
+* &frac14; cup chopped fresh mint
 * 125g fetta cheese
 * 2 tbsp lemon juice
 * fresh mint sprigs, for serving

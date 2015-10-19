@@ -12,10 +12,10 @@ tags: []
 #Ingedients
 * cooking oil spray
 * 2 cups sifted pure icing sugar
-* 1/4 teaspoon cream of tartar
+* &frac14; teaspoon cream of tartar
 * 395g can condensed milk
-* 1/2 teaspoon vanilla
-* 3 1/2 cups desiccated coconut
+* &frac12; teaspoon vanilla
+* 3 &frac12; cups desiccated coconut
 * 2-3 drops pink food colouring
 
 #Directions

@@ -10,10 +10,10 @@ serves:
 tags: []
 ---
 #Ingedients
-* 1/3 cup white chia seeds
+* &#8531; cup white chia seeds
 * 1.5 cups milk
 * 2 tbsp maple syrup
-* 1/2 tsp vanilla
+* &frac12; tsp vanilla
 
 #Directions
 1. Combine all the ingredients in a pint jar. Cover the jar with a lid and give it a vigorous shake.

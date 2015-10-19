@@ -12,15 +12,15 @@ tags: []
 #Ingedients
 * 1 tablespoon cornflour
 * 2 tablespoons gluten-free soy sauce
-* 60ml (1/4 cup) dry sherry
+* 60ml (&frac14; cup) dry sherry
 * 600g chicken thigh fillets, excess fat trimmed, cut into 3cm pieces
-* 60ml (1/4 cup) peanut oil
+* 60ml (&frac14; cup) peanut oil
 * 3 garlic cloves, thinly sliced lengthways
 * 1 tablespoon finely grated fresh ginger
 * 1 red capsicum, seeded, thinly sliced
 * 250ml (1 cup) Campbell's Real Stock Chicken
 * 1 cinnamon stick
-* 1/2 teaspoon sesame oil
+* &frac12; teaspoon sesame oil
 * 1 long fresh red chilli, thinly sliced
 * Steamed SunRice White Medium Grain Rice, to serve
 
