@@ -8,6 +8,8 @@ cooktime: 25
 cookunits: minutes
 serves: 4
 tags: 
+- italian
+- pasta
 ingredients: |
  #Ingredients
  * 1 tablespoon olive oil

@@ -7,7 +7,11 @@ prepunits: minutes
 cooktime: 10
 cookunits: minutes
 serves: 4
-tags: stir-fry vegetarian egg noodle
+tags: 
+- stir-fry 
+- vegetarian 
+- egg 
+- noodle
 ingredients: |
  #Ingredients
  * 100g dried rice vermicelli noodles

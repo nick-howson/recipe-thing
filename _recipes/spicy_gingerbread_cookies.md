@@ -28,7 +28,7 @@ ingredients: |
 #Directions
 1. In a large bowl, beat together butter and sugar until light and fluffy. Beat in eggs and molasses. In another bowl, sift together flour, baking soda, baking powder, spices and salt. Stir flour mixture into butter mixture. 
 2. Divide dough into thirds and wrap each third in plastic wrap. Chill for about 1 hour. 
-3. Preheat oven to 180 degrees Celcius. 
+3. Preheat oven to 180&deg;Celcius. 
 4. Roll dough 3mm thick between two pieces of waxed paper. Cut into shapes with cookie cutters. 
 5. Transfer shapes to ungreased cookie sheets. If desired, decorate with raisins and/or red hot candies. 
 6. Refrigerate about 15 minutes. 

@@ -7,7 +7,9 @@ prepunits: minutes
 cooktime: 20
 cookunits: minutes
 serves: 4
-tags: italian sauce
+tags: 
+- italian 
+- sauce
 ingredients: |
  #Ingredients
  * 2 tablespoons olive oil
