@@ -1,5 +1,3 @@
 .sass-cache
-Gemfile.lock
-start_devserver.bat
-test.md
-_layouts/test.html
+_site/*
+_deploy/*
