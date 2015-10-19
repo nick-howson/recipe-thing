@@ -17,5 +17,8 @@
   <div class="col-md-12">{{ page.content | markdownify }}</div> 
  </div>
 </div><!-- /.container -->
+{% for tag in page.tags %}
+<p>{{ tag }}</p>
+{% endfor %}
 </body>
 {% include footer.html %}

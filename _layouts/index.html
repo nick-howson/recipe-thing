@@ -4,9 +4,10 @@
  <div class="container">
  {{ page.content | markdownify }}
  <ul>
-  {% assign sorted_pages = (site.recipes | sort: 'title') %}
-  {% for page in sorted_pages %}
-  <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
+  {% assign sorted_recipes = (site.recipes | sort: 'title') %}
+  {% for page in sorted_recipes %}
+  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
  </ul>
  </div><!-- /.container -->
 </body>
