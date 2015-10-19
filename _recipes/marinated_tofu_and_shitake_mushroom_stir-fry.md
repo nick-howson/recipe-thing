@@ -7,22 +7,22 @@ prepunits: minutes
 cooktime: 20
 cookunits: minutes
 serves: 4
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 300g firm tofu, cut into thin strips
+ * 60ml (&frac14; cup) mirin (rice wine)
+ * 2 tablespoons salt-reduced soy sauce
+ * 2 teaspoons finely grated fresh ginger
+ * 1 teaspoon caster sugar
+ * Vegetable oil spray
+ * 1 red onion, cut into thin wedges
+ * 150g shiitake mushrooms, halved
+ * 2 bunches broccolini, ends trimmed, cut into 2cm lengths
+ * 1 red capsicum, deseeded, thinly sliced
+ * 1 teaspoon sesame seeds
+ * steamed SunRice Basmati Rice, to serve
 ---
-#Ingedients
-* 300g firm tofu, cut into thin strips
-* 60ml (&frac14; cup) mirin (rice wine)
-* 2 tablespoons salt-reduced soy sauce
-* 2 teaspoons finely grated fresh ginger
-* 1 teaspoon caster sugar
-* Vegetable oil spray
-* 1 red onion, cut into thin wedges
-* 150g shiitake mushrooms, halved
-* 2 bunches broccolini, ends trimmed, cut into 2cm lengths
-* 1 red capsicum, deseeded, thinly sliced
-* 1 teaspoon sesame seeds
-* steamed SunRice Basmati Rice, to serve
-
 #Directions
 1. Place the tofu in a shallow glass or ceramic dish. Combine half the mirin, soy sauce and ginger in a jug and pour over the tofu. Cover with plastic wrap and place in the fridge for 30 minutes to marinate.
 2. Combine the sugar and remaining mirin, soy sauce and ginger in a small bowl. Heat a wok or frying pan over high heat. Lightly spray with olive oil spray. Drain the tofu and reserve the marinade. Add one-third of the tofu to the wok and cook for 1-2 minutes each side or until golden brown. Transfer to a plate. Repeat, in 2 more batches, with the remaining tofu.

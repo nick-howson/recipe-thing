@@ -7,19 +7,19 @@ prepunits: minutes
 cooktime: 25
 cookunits: minutes
 serves: 12
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 250g (1,3/4 cups) wholemeal flour
+ * 90g (&#8531; cup) dark brown soft sugar
+ * &frac12; teaspoon ground cinnamon
+ * 2 teaspoons baking powder
+ * 1 teaspoon bicarbonate of soda
+ * 3 ripe bananas, mashed
+ * 4 egg whites
+ * 1 teaspoon vanilla essence
+ * 150g fresh or frozen blueberries
 ---
-#Ingedients
-* 250g (1,3/4 cups) wholemeal flour
-* 90g (&#8531; cup) dark brown soft sugar
-* &frac12; teaspoon ground cinnamon
-* 2 teaspoons baking powder
-* 1 teaspoon bicarbonate of soda
-* 3 ripe bananas, mashed
-* 4 egg whites
-* 1 teaspoon vanilla essence
-* 150g fresh or frozen blueberries
-
 #Directions
 1. Preheat oven to 180&deg;Celcius. Lightly grease 12 muffin pans, or line with paper muffin cups.
 2. In a large bowl, mix the flour, sugar, cinnamon, baking powder and bicarbonate of soda. In a separate bowl, mix the bananas, egg whites and vanilla essence.

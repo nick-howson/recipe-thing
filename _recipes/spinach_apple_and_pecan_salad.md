@@ -7,18 +7,18 @@ prepunits: minutes
 cooktime: 5
 cookunits: minutes
 serves: 6
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * &frac12; cup pecans
+ * 1 tbsp lemon juice
+ * 2 stalks celery, finely sliced diagonally
+ * 75 g spinach leaves
+ * 1 tbsp apple cider vinegar
+ * 2 tbsp extra virgin olive oil
+ * 1 tsp wholegrain mustard
+ * 2 Royal Gala or Red Delicious apples
 ---
-#Ingedients
-* &frac12; cup pecans
-* 1 tbsp lemon juice
-* 2 stalks celery, finely sliced diagonally
-* 75 g spinach leaves
-* 1 tbsp apple cider vinegar
-* 2 tbsp extra virgin olive oil
-* 1 tsp wholegrain mustard
-* 2 Royal Gala or Red Delicious apples
-
 #Directions
 1. Preheat oven to 180&deg;C or 160&deg;C fan. Spread pecans on an oven tray, and roast for 4-5 mins, until fragrant and lightly toasted. Transfer to a plate to cool.
 2. Quarter apples and remove cores. Cut lengthways into thin slices. Toss with lemon juice. Combine apple, celery and spinach in a large bowl.

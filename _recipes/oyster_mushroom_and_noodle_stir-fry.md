@@ -7,21 +7,20 @@ prepunits: minutes
 cooktime: 10
 cookunits: minutes
 serves: 4
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 200g packet dried flat egg noodles
+ * 1 tablespoon peanut oil or rice bran oil
+ * 1 onion, sliced
+ * 300g oyster mushroom, torn in half if large
+ * 100g enoki mushrooms, trimmed
+ * 2 garlic cloves, crushed
+ * 1 bunch gai lan (Chinese broccoli), trimmed, roughly chopped
+ * &frac14; cup (60ml) soy sauce
+ * &frac14; cup (60ml) lime juice
+ * 2 spring onions, thinly sliced, to serve
 ---
-#Ingedients
-* 200g packet dried flat egg noodles
-* 1 tablespoon peanut oil or rice bran oil
-* 1 onion, sliced
-* 300g oyster mushroom, torn in half if large
-* 100g enoki mushrooms, trimmed
-* 2 garlic cloves, crushed
-* 1 bunch gai lan (Chinese broccoli), trimmed, roughly chopped
-* &frac14; cup (60ml) soy sauce
-* &frac14; cup (60ml) lime juice
-* 2 spring onions, thinly sliced, to serve
-
-
 #Directions
 1. Cook the egg noodles according to packet instructions. Drain, then rinse under cold water and drain again. Toss with 1 teaspoon of the oil and &frac12; teaspoon black pepper.
 2. Heat the remaining oil in a large wok over high heat add the onion and stir-fry for 1 minute. 

@@ -7,34 +7,34 @@ prepunits: minutes
 cooktime: 30
 cookunits: minutes
 serves: 
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ 
+ ## Coconut rice
+ 
+ * 1 cup Basmati Rice
+ * 1 cube Chicken Stock
+ * 1 cup Coconut Milk
+ * &frac12; tbsp Salt
+ * 1 Shredded Coconut, lightly toasted, for garnish
+ 
+ ## Salmon
+ 
+ * 1 tsp Olive Oil
+ * 2 cloves Garlic, finely chopped
+ * 2 tbsp Fresh Ginger, peeled and finely chopped
+ * 1 small Red Chilli, seeded and finely chopped
+ * &frac14; cup Orange Juice
+ * &frac14; cup Soy Sauce
+ * &frac14; cup Honey
+ * 1 tbsp Fresh Coriander, chopped
+ * 1 tbsp Olive Oil
+ * 4 x 200 g Fresh Tasmanian Atlantic Salmon Fillets (skin on)
+ * 2 bunches Buk Choy, quartered
+ * 1 Lemon, zest
+ * Coriander, for garnish
 ---
-#Ingedients
-
-## Coconut rice
-
-* 1 cup Basmati Rice
-* 1 cube Chicken Stock
-* 1 cup Coconut Milk
-* &frac12; tbsp Salt
-* 1 Shredded Coconut, lightly toasted, for garnish
-
-## Salmon
-
-* 1 tsp Olive Oil
-* 2 cloves Garlic, finely chopped
-* 2 tbsp Fresh Ginger, peeled and finely chopped
-* 1 small Red Chilli, seeded and finely chopped
-* &frac14; cup Orange Juice
-* &frac14; cup Soy Sauce
-* &frac14; cup Honey
-* 1 tbsp Fresh Coriander, chopped
-* 1 tbsp Olive Oil
-* 4 x 200 g Fresh Tasmanian Atlantic Salmon Fillets (skin on)
-* 2 bunches Buk Choy, quartered
-* 1 Lemon, zest
-* Coriander, for garnish
-
 #Directions
 
 ##Coconut Rice

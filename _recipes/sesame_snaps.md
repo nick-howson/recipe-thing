@@ -7,15 +7,15 @@ prepunits: minutes
 cooktime: 2
 cookunits: hours
 serves: 
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * &frac34; cup honey
+ * &frac12; cup sunflower seeds
+ * &frac12; cup skim milk powder
+ * 1 cup sesame seeds
+ * &frac12; cup shredded coconut
 ---
-#Ingedients
-* &frac34; cup honey
-* &frac12; cup sunflower seeds
-* &frac12; cup skim milk powder
-* 1 cup sesame seeds
-* &frac12; cup shredded coconut
-
 #Directions
 1. Bring the honey to the boil in a large saucepan and then add the other ingredients.
 2. Pour the mixture into a flat dish and pop into the fridge to set.

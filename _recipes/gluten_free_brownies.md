@@ -7,19 +7,19 @@ prepunits: minutes
 cooktime: 25
 cookunits: minutes
 serves: 28
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 400g can butter beans (drained)
+ * 2 eggs
+ * 2 tablespoons oil
+ * 1 teaspoon vanilla essence
+ * 2 tablespoons milk
+ * &frac12; cup (60g) cocoa
+ * 150g hazelnut or almond meal
+ * 3/4 cup (125g) brown sugar
+ * 1 teasppon baking powder
 ---
-#Ingedients
-* 400g can butter beans (drained)
-* 2 eggs
-* 2 tablespoons oil
-* 1 teaspoon vanilla essence
-* 2 tablespoons milk
-* &frac12; cup (60g) cocoa
-* 150g hazelnut or almond meal
-* 3/4 cup (125g) brown sugar
-* 1 teasppon baking powder
-
 #Directions
 1. Preheat oven to 160&deg;Celcius. Greese and line a slice tin.
 2. Blend wet ingredients together and mix into dry ingredients.

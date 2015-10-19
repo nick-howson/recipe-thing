@@ -7,19 +7,19 @@ prepunits: minutes
 cooktime: 25
 cookunits: minutes
 serves: 6
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 3 tablespoons butter or margarine
+ * 2 cups long or short grain rice
+ * 4 cups hot stock
+ * salt and pepper
+ * 1 onion
+ * &frac12; green capsicum
+ * &frac12; red capsicum
+ * 1 cup chopped tomatoes
+ * 1 tablespoon chopped parsley
 ---
-#Ingedients
-* 3 tablespoons butter or margarine
-* 2 cups long or short grain rice
-* 4 cups hot stock
-* salt and pepper
-* 1 onion
-* &frac12; green capsicum
-* &frac12; red capsicum
-* 1 cup chopped tomatoes
-* 1 tablespoon chopped parsley
-
 #Directions
 1. Gently fry 1 onion chopped and &frac12; green and red capsicums in butter until soft before adding rice.
 2. Add 3.5 cups stock, 1 cup chopped tomatoes and 1 tablespoon chopped parsley.

@@ -7,16 +7,16 @@ prepunits: minutes
 cooktime: 15
 cookunits: minutes
 serves: 10
-tags: [biscuit]
+tags: biscuit
+ingredients: |
+ #Ingredients
+ * 1 Ripe Banana
+ * 3 Dates
+ * 1 cup Oats
+ * 3 TBSP Brown Sugar
+ * 1 Egg White (make it vegan with 1 TBSP ground flaxseed and 3 TBSP water)
+ * &frac12; tsp Baking Soda
 ---
-#Ingedients
-* 1 Ripe Banana
-* 3 Dates
-* 1 cup Oats
-* 3 TBSP Brown Sugar
-* 1 Egg White (make it vegan with 1 TBSP ground flaxseed and 3 TBSP water)
-* &frac12; tsp Baking Soda
-
 #Directions
 1. Preheat oven to 180&deg;C. 
 2. Mash banana well in a medium mixing bowl. 

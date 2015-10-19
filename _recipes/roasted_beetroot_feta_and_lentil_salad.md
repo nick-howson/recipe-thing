@@ -7,18 +7,18 @@ prepunits: minutes
 cooktime: 1
 cookunits: hour
 serves: 
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 3 medium sized beetroot 
+ * 1 red onion
+ * &frac14; tsp Ground Allspice
+ * 400g Lentils, strained and rinsed
+ * 100g Lite Australian Fetta, crumbled
+ * &frac12; cup of pecans
+ * 3 sprigs of fresh thyme
+ * 1 bottle Coles Simply Less Honey Balsamic Dressing
 ---
-#Ingedients
-* 3 medium sized beetroot 
-* 1 red onion
-* &frac14; tsp Ground Allspice
-* 400g Lentils, strained and rinsed
-* 100g Lite Australian Fetta, crumbled
-* &frac12; cup of pecans
-* 3 sprigs of fresh thyme
-* 1 bottle Coles Simply Less Honey Balsamic Dressing
-
 #Directions
 1. Preheat oven to 180&deg;Celcius fan forced.
 2. Individually wrap the beetroot and peeled red onion in foil and roast in oven until soft (red onion about 30 minutes, beetroot about 1 hour).

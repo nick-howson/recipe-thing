@@ -7,18 +7,18 @@ prepunits: minutes
 cooktime: 10
 cookunits: minutes
 serves: 4
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * Juice of one lemon, divided
+ * Lemon zest
+ * 1 tsp dried oregano
+ * 20 medium shrimp, tail on
+ * &frac12; jar roasted red peppers
+ * 8-ounces angel hair pasta
+ * 1 cup peas
+ * Freshly ground black pepper
 ---
-#Ingedients
-* Juice of one lemon, divided
-* Lemon zest
-* 1 tsp dried oregano
-* 20 medium shrimp, tail on
-* &frac12; jar roasted red peppers
-* 8-ounces angel hair pasta
-* 1 cup peas
-* Freshly ground black pepper
-
 #Directions
 1. Combine lemon zest, and half the lemon juice in a dish. Add shrimp and marinate for 10 minutes. Chop red peppers and put to one side.
 Place a large pot of water on to boil for the pasta.

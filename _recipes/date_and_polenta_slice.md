@@ -7,19 +7,19 @@ prepunits: minutes
 cooktime: 25
 cookunits: minutes
 serves: 20
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 1 cup polenta
+ * &frac12; cup plain flour*
+ * 2 tsp baking powder
+ * &frac12; cup caster sugar
+ * &frac14; tsp ground cinnamon
+ * 2 eggs
+ * &#8531; cup canola oil
+ * 1 cup chopped dried dates
+ * You can replace plain flour and baking powder with self raising flour
 ---
-#Ingedients
-* 1 cup polenta
-* &frac12; cup plain flour*
-* 2 tsp baking powder
-* &frac12; cup caster sugar
-* &frac14; tsp ground cinnamon
-* 2 eggs
-* &#8531; cup canola oil
-* 1 cup chopped dried dates
-* You can replace plain flour and baking powder with self raising flour
-
 #Directions
 1. Preheat oven 170&deg;C.
 2. Line a 26cm x 17cm slice tray with baking paper any larger and the mix won't cover the base or line a loaf tin for a higher slice, increase cooking time by 5 minutes.

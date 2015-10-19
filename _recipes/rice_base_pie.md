@@ -7,32 +7,32 @@ prepunits: minutes
 cooktime: 
 cookunits: minutes
 serves: 
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ 
+ ##Base
+ 
+ * 2 cups cold cooked brown rice
+ * 1 egg, beaten
+ * 2 tbs parmesan cheese, grated
+ * &frac12; lemon, juiced and grated rind
+ * Salt and pepper to taste
+ 
+ ##Contents
+ 
+ * 2 fillets smoked trout
+ * 1 onion
+ * &frac14; cabbage, shredded
+ 
+ ##Sauce
+ 
+ * 1 tbs butter
+ * 2 tbs plain flour
+ * 1 teaspoon curry powder
+ * 1 tin low fat carnation milk
+ * 1 tbs parmesan cheese, grated
 ---
-#Ingedients
-
-##Base
-
-* 2 cups cold cooked brown rice
-* 1 egg, beaten
-* 2 tbs parmesan cheese, grated
-* &frac12; lemon, juiced and grated rind
-* Salt and pepper to taste
-
-##Contents
-
-* 2 fillets smoked trout
-* 1 onion
-* &frac14; cabbage, shredded
-
-##Sauce
-
-* 1 tbs butter
-* 2 tbs plain flour
-* 1 teaspoon curry powder
-* 1 tin low fat carnation milk
-* 1 tbs parmesan cheese, grated
-
 #Directions
 1. Base - Combine cooked brown rice, egg, parmesan cheese, lemon juice, lemon rind, salt and pepper. Press into baking tin.
 2. Contents - Evenly spread smoked trout over base. Saute onion and cabbage in olive oil. When soft spread over smoked trout. 

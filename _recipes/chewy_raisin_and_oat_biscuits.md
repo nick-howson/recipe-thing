@@ -7,18 +7,18 @@ prepunits: minutes
 cooktime: 15
 cookunits: minutes
 serves: 12
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 1 cup raisins
+ * 1 cup cornflakes
+ * 3/4 cup rolled oats
+ * &frac12; cup self-raising flour
+ * &frac12; cup wholemeal self-raising flour
+ * &frac14; cup brown sugar
+ * &frac14; cup olive oil
+ * 1 egg
 ---
-#Ingedients
-* 1 cup raisins
-* 1 cup cornflakes
-* 3/4 cup rolled oats
-* &frac12; cup self-raising flour
-* &frac12; cup wholemeal self-raising flour
-* &frac14; cup brown sugar
-* &frac14; cup olive oil
-* 1 egg
-
 #Directions
 1. Preheat oven to 200&deg;C/180&deg;C fan-forced. Line a baking tray with baking paper.
 2. Combine raisins, cornflakes, oats, flours and sugar in a bowl. Whisk oil, egg and &frac14; cup cold water together in a jug. Stir into raisin mixture.

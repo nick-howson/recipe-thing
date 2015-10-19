@@ -7,14 +7,14 @@ prepunits: minutes
 cooktime: 
 cookunits: minutes
 serves: 
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * &#8531; cup white chia seeds
+ * 1&frac12; cups milk
+ * 2 tbsp maple syrup
+ * &frac12; tsp vanilla
 ---
-#Ingedients
-* &#8531; cup white chia seeds
-* 1&frac12; cups milk
-* 2 tbsp maple syrup
-* &frac12; tsp vanilla
-
 #Directions
 1. Combine all the ingredients in a pint jar. Cover the jar with a lid and give it a vigorous shake.
 2. Chill for about an hour, then return to the jar and shake it up. Let chill for at least 4 hours and overnight is even better.

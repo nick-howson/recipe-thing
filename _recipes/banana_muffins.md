@@ -7,17 +7,17 @@ prepunits: minutes
 cooktime: 25
 cookunits: minutes
 serves: 12
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 2 &frac12; cups self-raising flour
+ * 3/4 cups brown sugar
+ * 1 cup milk
+ * 1 egg
+ * 2 tbs margarine
+ * 1 tsp vanilla extract
+ * 2 banana ripe
 ---
-#Ingedients
-* 2 &frac12; cups self-raising flour
-* 3/4 cups brown sugar
-* 1 cup milk
-* 1 egg
-* 2 tbs margarine
-* 1 tsp vanilla extract
-* 2 banana ripe
-
 #Directions
 1. Combine milk, egg, margarine, vanilla and bananas, and blend in a mixing jug.
 2. Place flour and sugar in a large bowl. Mix in milk mixture.

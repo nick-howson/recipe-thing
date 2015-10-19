@@ -7,43 +7,43 @@ prepunits: minutes
 cooktime: 2
 cookunits: hours
 serves: 
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ 
+ ##Cabbage rolls
+ 
+ * 1 head Savoy cabbage
+ * 2 teaspoon olive oil
+ * 300 grams or 10 oz ground beef
+ * 2 cloves garlic
+ * 1 medium-sized onion
+ * 1 small chili pepper
+ * 2 carrots, grinded
+ * 1 teaspoon ground coriander
+ * &frac12; teaspoon ground cumin
+ * &frac12; teaspoon ground paprika
+ * 1 teaspoon ground majoran
+ * 400 grams or 14 oz (1 can) diced tomatoes or 4 medium-sized fresh tomatoes
+ * 400 grams or 14 oz (1 can) kidney beans
+ * 1 tablespoon tomato paste
+ * 1 teaspoon sugar
+ * salt
+ * black pepper
+ * 80 grams or 3 oz grinded Gouda cheese (optional)
+ * sour cream
+ 
+ ##Tomato Sauce
+ 
+ * 500 ml or 2 cups of your favorite marinara sauce OR
+ * 1 tablespoon olive oil
+ * 1 medium-sized onion
+ * 1 clove garlic
+ * 500 grams or 2 cups diced tomatoes (fresh or canned)
+ * 3 sprigs thyme
+ * salt
+ * black pepper
 ---
-#Ingedients
-
-##Cabbage rolls
-
-* 1 head Savoy cabbage
-* 2 teaspoon olive oil
-* 300 grams or 10 oz ground beef
-* 2 cloves garlic
-* 1 medium-sized onion
-* 1 small chili pepper
-* 2 carrots, grinded
-* 1 teaspoon ground coriander
-* &frac12; teaspoon ground cumin
-* &frac12; teaspoon ground paprika
-* 1 teaspoon ground majoran
-* 400 grams or 14 oz (1 can) diced tomatoes or 4 medium-sized fresh tomatoes
-* 400 grams or 14 oz (1 can) kidney beans
-* 1 tablespoon tomato paste
-* 1 teaspoon sugar
-* salt
-* black pepper
-* 80 grams or 3 oz grinded Gouda cheese (optional)
-* sour cream
-
-##Tomato Sauce
-
-* 500 ml or 2 cups of your favorite marinara sauce OR
-* 1 tablespoon olive oil
-* 1 medium-sized onion
-* 1 clove garlic
-* 500 grams or 2 cups diced tomatoes (fresh or canned)
-* 3 sprigs thyme
-* salt
-* black pepper
-
 #Directions
 
 1. In a large pot, bring 2-3 liters of water to a boil. Add the whole cabbage and cook until the outer leaves begin soften, around 3 to 4 minutes. Take the cabbage out using a slotted spoon. Remove 2-3 large outer leaves, drain. Return the cabbage to the pot and repeat the process until all the cabbage leaves are cooked. Drain with a kitchen towel. Select 12 large leaves. The rest can be saved for other dishes.

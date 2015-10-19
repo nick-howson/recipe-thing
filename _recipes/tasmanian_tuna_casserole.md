@@ -7,17 +7,17 @@ prepunits: minutes
 cooktime: 10
 cookunits: minutes
 serves: 5
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 1 large can tuna (in springwater)
+ * 3 tblsp flour
+ * 2 tblsp butter
+ * &frac12; tblsp curry powder
+ * 1 can tinned tomato soup
+ * 2 cups milk
+ * rice
 ---
-#Ingedients
-* 1 large can tuna (in springwater)
-* 3 tblsp flour
-* 2 tblsp butter
-* &frac12; tblsp curry powder
-* 1 can tinned tomato soup
-* 2 cups milk
-* rice
-
 #Directions
 1. In a large saucepan on stovetop, melt 2 tablespoons butter and &frac12; tablespoon of curry powder. Add 3 tablespoons plain flour and mix. This mixture will form a thick paste. 
 2. Add the tin of tomato soup and mix well. 

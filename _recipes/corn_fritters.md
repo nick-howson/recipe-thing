@@ -7,18 +7,18 @@ prepunits: minutes
 cooktime: 25
 cookunits: minutes
 serves: 18
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 1 cup White Wings Self-Raising Flour
+ * &frac12; cup buttermilk
+ * 2 eggs
+ * 420g can corn kernels, drained
+ * 310g can creamed corn
+ * &frac14; cup finely chopped chives
+ * olive oil cooking spray
+ * chutney and chopped chives, to serve
 ---
-#Ingedients
-* 1 cup White Wings Self-Raising Flour
-* &frac12; cup buttermilk
-* 2 eggs
-* 420g can corn kernels, drained
-* 310g can creamed corn
-* &frac14; cup finely chopped chives
-* olive oil cooking spray
-* chutney and chopped chives, to serve
-
 #Directions
 1. Sift flour into a large bowl. Season with salt and pepper. Stir until well combined. Make a well in the centre.
 2. Whisk buttermilk and eggs in a jug. Add to flour mixture with corn kernels, creamed corn and chives. Using a large metal spoon, gently fold ingredients together until combined (don't overmix).

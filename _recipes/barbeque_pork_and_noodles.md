@@ -7,26 +7,26 @@ prepunits: minutes
 cooktime: 30
 cookunits: minutes
 serves: 2
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 3 green shallots, trimmed, thinly sliced
+ * 60ml (&frac14; cup) soy sauce
+ * 1 tablespoon brown sugar
+ * 1 tablespoon honey
+ * 1 garlic clove, crushed
+ * 1 teaspoon Chinese five spice
+ * 2 (about 200g each) pork fillets, excess fat trimmed
+ * 1 tablespoon sesame seeds
+ * 1 x 200g pkt Chang's Egg Noodles
+ * 1 bunch choy sum
+ * 1 red capsicum, halved, deseeded, thinly sliced
+ * 2 tablespoons Chang's Oyster Sauce
+ * 2 teaspoons sesame oil
+ * 1 cup loosely packed coriander leaves
+ * Chang's Oyster Sauce, extra, to serve
+ * Soy sauce, to serve
 ---
-#Ingedients
-* 3 green shallots, trimmed, thinly sliced
-* 60ml (&frac14; cup) soy sauce
-* 1 tablespoon brown sugar
-* 1 tablespoon honey
-* 1 garlic clove, crushed
-* 1 teaspoon Chinese five spice
-* 2 (about 200g each) pork fillets, excess fat trimmed
-* 1 tablespoon sesame seeds
-* 1 x 200g pkt Chang's Egg Noodles
-* 1 bunch choy sum
-* 1 red capsicum, halved, deseeded, thinly sliced
-* 2 tablespoons Chang's Oyster Sauce
-* 2 teaspoons sesame oil
-* 1 cup loosely packed coriander leaves
-* Chang's Oyster Sauce, extra, to serve
-* Soy sauce, to serve
-
 #Directions
 1. Combine the green shallot, soy sauce, sugar, honey, garlic and five spice in a large glass or ceramic dish. Add the pork fillets and turn to coat. Cover with plastic wrap and place in the fridge for 2 hours to develop the flavours.
 2. Preheat oven to 180&deg;C. Line a baking tray with non-stick baking paper. Place pork on the prepared tray. Cook in preheated oven, basting occasionally, for 20 minutes or until golden brown and just cooked through. Remove from oven. Cover with foil and set aside for 5 minutes to rest.

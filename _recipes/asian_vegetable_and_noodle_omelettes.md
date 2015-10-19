@@ -8,19 +8,19 @@ cooktime: 10
 cookunits: minutes
 serves: 4
 tags: stir-fry vegetarian egg noodle
+ingredients: |
+ #Ingredients
+ * 100g dried rice vermicelli noodles
+ * 8 eggs
+ * 2 green onions, finely chopped
+ * 1 &frac12; tablespoons vegetable oil
+ * 2 garlic cloves, crushed
+ * 2cm piece fresh ginger, peeled, finely grated
+ * &frac12; x 800g packet frozen Shanghai stir-fry vegetable mix (see note)
+ * 1 tablespoon Chang's oyster sauce
+ * 2 teaspoons sesame oil
+ * 1 tablespoon soy sauce
 ---
-#Ingedients
-* 100g dried rice vermicelli noodles
-* 8 eggs
-* 2 green onions, finely chopped
-* 1 &frac12; tablespoons vegetable oil
-* 2 garlic cloves, crushed
-* 2cm piece fresh ginger, peeled, finely grated
-* &frac12; x 800g packet frozen Shanghai stir-fry vegetable mix (see note)
-* 1 tablespoon Chang's oyster sauce
-* 2 teaspoons sesame oil
-* 1 tablespoon soy sauce
-
 #Directions
 1. Place noodles in a heatproof bowl. Cover with boiling water. Stand for 4 to 5 minutes or until tender. Drain. Whisk eggs and onion in a bowl.
 2. Heat 2 teaspoons vegetable oil in a wok over high heat. Swirl to coat. Add garlic and ginger. Stir-fry for 1 minute. Add vegetable mix, oyster sauce and sesame oil. Stir-fry for 2 to 3 minutes or until vegetables are just tender. Transfer to a bowl. Add noodles. Toss to combine.

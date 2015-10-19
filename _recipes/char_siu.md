@@ -7,15 +7,15 @@ prepunits: minutes
 cooktime: N/A
 cookunits: 
 serves: 1 cup
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * &#8531; cup hoisin sauce
+ * &frac14; cup honey
+ * &frac14; cup dark soy sauce
+ * 3 tablespoons dry sherry or 3 tablespoons chinese shaosing wine
+ * 1 teaspoon Chinese five spice powder
 ---
-#Ingedients
-* &#8531; cup hoisin sauce
-* &frac14; cup honey
-* &frac14; cup dark soy sauce
-* 3 tablespoons dry sherry or 3 tablespoons chinese shaosing wine
-* 1 teaspoon Chinese five spice powder
-
 #Directions
 1. Combine all ingredients in a small bowl.
 

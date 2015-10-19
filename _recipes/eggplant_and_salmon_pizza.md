@@ -7,15 +7,15 @@ prepunits: minutes
 cooktime: 20
 cookunits: minutes
 serves: 
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 1 large eggplant, sliced
+ * 2 large pita breads
+ * &frac12; cup tomato pizza paste
+ * 315g smoked salmon
+ * 1 tbsp chives, chopped
 ---
-#Ingedients
-* 1 large eggplant, sliced
-* 2 large pita breads
-* &frac12; cup tomato pizza paste
-* 315g smoked salmon
-* 1 tbsp chives, chopped
-
 #Directions
 1. Heat a barbecue grill or chargrill on medium-high. Spray eggplant with oil. Cook in batches for 2 mins each side or until tender and golden. Cool.
 2. Spread tomato pizza paste over pita breads.

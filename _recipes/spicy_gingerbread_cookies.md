@@ -7,24 +7,24 @@ prepunits: minutes
 cooktime: 1:30
 cookunits: hours
 serves: 
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 1 cup unsalted butter 
+ * 1 cup dark-brown sugar, packed 
+ * 2 large eggs 
+ * 1 cup unsulfured molasses
+ * 6 cups sifted all-purpose flour 
+ * 1 teaspoon baking soda 
+ * &frac12; teaspoon baking powder 
+ * 4 teaspoons ground ginger 
+ * 4 teaspoons ground cinnamon 
+ * 1-&frac12; teaspoons ground cloves 
+ * &frac12; teaspoon finely ground black pepper 
+ * 1-&frac12; teaspoons salt 
+ * Raisins and/or red hot candies for decoration (optional)
+ * Royal Icing for decoration (optional)
 ---
-#Ingedients
-* 1 cup unsalted butter 
-* 1 cup dark-brown sugar, packed 
-* 2 large eggs 
-* 1 cup unsulfured molasses
-* 6 cups sifted all-purpose flour 
-* 1 teaspoon baking soda 
-* &frac12; teaspoon baking powder 
-* 4 teaspoons ground ginger 
-* 4 teaspoons ground cinnamon 
-* 1-&frac12; teaspoons ground cloves 
-* &frac12; teaspoon finely ground black pepper 
-* 1-&frac12; teaspoons salt 
-* Raisins and/or red hot candies for decoration (optional)
-* Royal Icing for decoration (optional)
-
 #Directions
 1. In a large bowl, beat together butter and sugar until light and fluffy. Beat in eggs and molasses. In another bowl, sift together flour, baking soda, baking powder, spices and salt. Stir flour mixture into butter mixture. 
 2. Divide dough into thirds and wrap each third in plastic wrap. Chill for about 1 hour. 

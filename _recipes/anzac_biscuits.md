@@ -8,17 +8,17 @@ cooktime: 20
 cookunits: minutes
 serves: 30
 tags: biscuit australian snack
+ingredients: |
+ #Ingredients
+ * 1.5 cups (135g) traditional rolled oats
+ * 1 cup (150g) wholemeal or white plain flour
+ * &frac12; cup (100g) caster or raw sugar
+ * &frac12; cup (45g) lite desccated coconut
+ * 3 tablespoons (80g) reduced fat canola or polyunsaturated spread (dairy free can be used)
+ * &frac12; teaspoon coconut/vanilla essence
+ * 1 teaspoon bicarbonate of soda
+ * 2 tablespoons boiling water
 ---
-#Ingedients
-* 1.5 cups (135g) traditional rolled oats
-* 1 cup (150g) wholemeal or white plain flour
-* &frac12; cup (100g) caster or raw sugar
-* &frac12; cup (45g) lite desccated coconut
-* 3 tablespoons (80g) reduced fat canola or polyunsaturated spread (dairy free can be used)
-* &frac12; teaspoon coconut/vanilla essence
-* 1 teaspoon bicarbonate of soda
-* 2 tablespoons boiling water
-
 #Directions
 1. Preheat the oven to 150&deg;C. In a large bowl combine oats, flour, sugar and coconut and mix well.
 2. Combine syrup and reduced fat spread in a small saucepan and stir over a low heat until melted and runny. Add coconut essence. Combine soda and boiling water in a small bowl or cup and stir through the golden syrup mixture immediately.

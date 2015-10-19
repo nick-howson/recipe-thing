@@ -7,19 +7,19 @@ prepunits: minutes
 cooktime: 50
 cookunits: minutes
 serves: 12
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 2 cups (300g) of self raising flour
+ * 1 tsp bicarbonate of soda
+ * Pinch of salt
+ * 1 tsp ground cinnamon
+ * &frac12; cup (110g) caster sugar
+ * 3/4 cup (125g) sultanas (or pitted date - less sugar!)
+ * 2 eggs, lightly beaten
+ * 1 cup (250mL) reduced fat milk
+ * 1 cup mashed banana (about 2 large ripe bananas)
 ---
-#Ingedients
-* 2 cups (300g) of self raising flour
-* 1 tsp bicarbonate of soda
-* Pinch of salt
-* 1 tsp ground cinnamon
-* &frac12; cup (110g) caster sugar
-* 3/4 cup (125g) sultanas (or pitted date - less sugar!)
-* 2 eggs, lightly beaten
-* 1 cup (250mL) reduced fat milk
-* 1 cup mashed banana (about 2 large ripe bananas)
-
 #Directions
 1. Preheat oven to 180&deg;Celcius. Line the base and sides of a 23cmx13cm loaf pan with non-stick baking paper.
 2. Sift flour, bicarbonate of soda, salt and cinnamon into a large bowl. Stir in sugar and sultanas.

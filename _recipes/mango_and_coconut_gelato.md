@@ -7,13 +7,13 @@ prepunits: minutes
 cooktime: 
 cookunits: minutes
 serves: 
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 1 medium mango (430g), peeled, chopped
+ * 375mL Carnation Light and Creamy Coconut Flavoured Evaporated milk, chilled overnight
+ * &#8531; cup (75g) caster sugar
 ---
-#Ingedients
-* 1 medium mango (430g), peeled, chopped
-* 375mL Carnation Light and Creamy Coconut Flavoured Evaporated milk, chilled overnight
-* &#8531; cup (75g) caster sugar
-
 #Directions
 1. Process mango until smooth.
 2. Using an electric mixer evaporated milk until thick and frothy. Add sugar, beat until dissolved. Add mango puree and beat until just combined.

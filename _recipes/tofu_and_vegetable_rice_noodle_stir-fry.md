@@ -7,23 +7,23 @@ prepunits: minutes
 cooktime: 20
 cookunits: minutes
 serves: 4
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 175g dried rice stick noodles
+ * 1 &frac12; tablespoons peanut oil
+ * 1 cup chopped fresh coriander
+ * 3 garlic cloves, crushed
+ * 3 shallots, trimmed, thinly sliced
+ * 1 x 320g pkt Nigari Hard Tofu, cut into 1cm pieces
+ * 200g broccoli, trimmed, cut into florets
+ * 1 zucchini, sliced
+ * 1 small red capsicum, halved, deseeded, thinly sliced
+ * 80ml (&#8531; cup) kecap manis
+ * 2 tablespoons soy sauce
+ * 2 tablespoons hot water
+ * 1 fresh red chilli, deseeded, thinly sliced
 ---
-#Ingedients
-* 175g dried rice stick noodles
-* 1 &frac12; tablespoons peanut oil
-* 1 cup chopped fresh coriander
-* 3 garlic cloves, crushed
-* 3 shallots, trimmed, thinly sliced
-* 1 x 320g pkt Nigari Hard Tofu, cut into 1cm pieces
-* 200g broccoli, trimmed, cut into florets
-* 1 zucchini, sliced
-* 1 small red capsicum, halved, deseeded, thinly sliced
-* 80ml (&#8531; cup) kecap manis
-* 2 tablespoons soy sauce
-* 2 tablespoons hot water
-* 1 fresh red chilli, deseeded, thinly sliced
-
 #Directions
 1. Cook the noodles following packet directions or until tender. Drain.
 2. Heat a wok over high heat. Add 1 tablespoon of oil and heat until just smoking. Swirl to coat. Add the coriander and garlic, and stir-fry for 30 seconds. Add the shallot and tofu. Season with salt and pepper. Stir-fry for 3-4 minutes or until golden. Transfer to a bowl.

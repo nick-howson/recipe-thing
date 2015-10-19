@@ -7,17 +7,17 @@ prepunits: minutes
 cooktime: 20
 cookunits: minutes
 serves: 12
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 90 gms butter
+ * &#8531; cups sugar
+ * 1 egg
+ * 1 cup self-raising flour
+ * 1 tsp vanilla essence
+ * 1 tbs milk
+ * 2 cups Special K
 ---
-#Ingedients
-* 90 gms butter
-* &#8531; cups sugar
-* 1 egg
-* 1 cup self-raising flour
-* 1 tsp vanilla essence
-* 1 tbs milk
-* 2 cups Special K
-
 #Directions
 1. Preheat oven to 180&deg;C. Line two trays with baking paper.
 2. Beat softened butter with sugar until creamy. Add vanilla essence. Beat in egg until combined.

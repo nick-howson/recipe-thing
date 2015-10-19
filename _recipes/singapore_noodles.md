@@ -7,21 +7,21 @@ prepunits: minutes
 cooktime: 15
 cookunits: minutes
 serves: 
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 1 tablespoon of corn starch
+ * 2 fl oz (60 ml) of vegetable oil
+ * &frac12; onion (sliced)
+ * a handful of bean sprouts
+ * &frac12; red pepper (sliced)
+ * 1 spring onion (sliced)
+ * 2 minced garlic cloves
+ * 2 whisked eggs
+ * 1 &frac12; tablespoons of curry powder
+ * salt and pepper
+ * coriander (for garnishing)
 ---
-#Ingedients
-* 1 tablespoon of corn starch
-* 2 fl oz (60 ml) of vegetable oil
-* &frac12; onion (sliced)
-* a handful of bean sprouts
-* &frac12; red pepper (sliced)
-* 1 spring onion (sliced)
-* 2 minced garlic cloves
-* 2 whisked eggs
-* 1 &frac12; tablespoons of curry powder
-* salt and pepper
-* coriander (for garnishing)
-
 #Directions
 1. Make a marinade. Place the pork and shrimp in a bowl together. Pour the wine, fish sauce, soy sauce, and corn starch into the bowl. Mix everything well together and place it on the side for 10 minutes.
 2. Oil and heat the wok. Carefully shake off as much marinate from the shrimp and pork possible. Place the pieces into the wok and cook them for about a minute or so.

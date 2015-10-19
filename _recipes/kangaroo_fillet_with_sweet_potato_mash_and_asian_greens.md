@@ -7,32 +7,32 @@ prepunits: minutes
 cooktime: 
 cookunits: minutes
 serves: 
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ 
+ ## Fillets
+ 
+ * 2 Kangaroo fillets
+ * equal parts spice mix and oil
+ 
+ ## Sweet Potato Mash
+ 
+ * 2 large sweet potato (1kg), chopped coarsley
+ * 1 tbsp olive oil
+ * &frac12; cup milk
+ * 1 tbsp butter
+ 
+ ## Asian Greens
+ 
+ * 2 bunches baby bok choy, trimmed
+ * 2 bunches Chinese broccoli, trimmed
+ * 1.5 cups chicken stock
+ * 80mL oyster sauce
+ * 2 tsp sesame oil
+ * 1 tbsp cornflour (mixed with water)
+ * white pepper to taste
 ---
-# Ingedients
-
-## Fillets
-
-* 2 Kangaroo fillets
-* equal parts spice mix and oil
-
-## Sweet Potato Mash
-
-* 2 large sweet potato (1kg), chopped coarsley
-* 1 tbsp olive oil
-* &frac12; cup milk
-* 1 tbsp butter
-
-## Asian Greens
-
-* 2 bunches baby bok choy, trimmed
-* 2 bunches Chinese broccoli, trimmed
-* 1.5 cups chicken stock
-* 80mL oyster sauce
-* 2 tsp sesame oil
-* 1 tbsp cornflour (mixed with water)
-* white pepper to taste
-
 #Directions
 
 ##Fillet

@@ -7,17 +7,17 @@ prepunits: hours
 cooktime: 
 cookunits: minutes
 serves: 25
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * cooking oil spray
+ * 2 cups sifted pure icing sugar
+ * &frac14; teaspoon cream of tartar
+ * 395g can condensed milk
+ * &frac12; teaspoon vanilla
+ * 3 &frac12; cups desiccated coconut
+ * 2-3 drops pink food colouring
 ---
-#Ingedients
-* cooking oil spray
-* 2 cups sifted pure icing sugar
-* &frac14; teaspoon cream of tartar
-* 395g can condensed milk
-* &frac12; teaspoon vanilla
-* 3 &frac12; cups desiccated coconut
-* 2-3 drops pink food colouring
-
 #Directions
 1. Spray a 20cm (base measurement) square cake pan with cooking oil spray and line with non-stick baking paper. 
 2. Place icing sugar and cream of tartar in a large bowl. Add condensed milk and vanilla essence and stir until well combined. Add desiccated coconut and, using your hands, mix until well combined. 

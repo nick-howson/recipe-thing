@@ -7,22 +7,21 @@ prepunits: minutes
 cooktime: 45
 cookunits: minutes
 serves: 4
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 1 tbs oil
+ * 25 gms butter
+ * 1 onion chopped
+ * 200 gms mushrooms sliced
+ * 1 &frac12; cups arborio rice
+ * &frac14; cups white wine optional
+ * 4 cups vegetable stock (liquid) hot
+ * &#8531; cups parmesan cheese
+ * 1 tbs dried parsley
+ * 25 gms butter optional
+ * 1 tsp pepper optional
 ---
-#Ingedients
-* 1 tbs oil
-* 25 gms butter
-* 1 onion chopped
-* 200 gms mushrooms sliced
-* 1 &frac12; cups arborio rice
-* &frac14; cups white wine optional
-* 4 cups vegetable stock (liquid) hot
-* &#8531; cups parmesan cheese
-* 1 tbs dried parsley
-* 25 gms butter optional
-* 1 tsp pepper optional
-
-
 #Directions
 1. Saute onion and mushrooms in oil and butter until soft and golden.
 2. Stir in rice and cook for about 5 minutes until rice is transparent.

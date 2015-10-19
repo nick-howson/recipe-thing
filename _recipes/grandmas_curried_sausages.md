@@ -7,19 +7,19 @@ prepunits: minutes
 cooktime: 20
 cookunits: minutes
 serves: 
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 1 kg thick beef sausages
+ * 1 tablespoon peanut oil
+ * 1 medium brown onion, sliced
+ * 2 tablespoons curry powder
+ * 1 cup (250ml) Campbell's Real Stock Beef
+ * 400g can diced tomatoes
+ * 1 cup (150g) frozen peas
+ * &frac12; cup sultanas
+ * Serve with naan or rice
 ---
-#Ingedients
-* 1 kg thick beef sausages
-* 1 tablespoon peanut oil
-* 1 medium brown onion, sliced
-* 2 tablespoons curry powder
-* 1 cup (250ml) Campbell's Real Stock Beef
-* 400g can diced tomatoes
-* 1 cup (150g) frozen peas
-* &frac12; cup sultanas
-* Serve with naan or rice
-
 #Directions
 1. Place sausages in large pan, cover with cold water. Bring to a boil over high heat, boil 2 minutes. Drain sausages.
 2. Heat oil in large saucepan, cook onion, stirring about 3 minutes or until soft. Add curry powder, cook, stirring about 1 minute or until fragrant.

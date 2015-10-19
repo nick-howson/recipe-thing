@@ -7,22 +7,22 @@ prepunits: minutes
 cooktime: 15
 cookunits: minutes
 serves: 4
-tags: []
+tags: 
+ingredients: |
+ #Ingredients
+ * 1 tablespoon sesame seeds
+ * 1 tablespoon peanut oil
+ * 800g beef strips
+ * 1 medium brown onion (150g), Sliced thinly
+ * 3cm piece fresh ginger (15g), grated
+ * 1 clove garlic, crushed
+ * 1 medium red capsicum (200g), sliced thinly
+ * 115g baby corn, halved lengthways
+ * 450g hokkien noodles
+ * &#8531; cup (115g) honey
+ * &#8531; cup (80mL) teriyaki sauce
+ * 1 tablespoon mirin
 ---
-#Ingedients
-* 1 tablespoon sesame seeds
-* 1 tablespoon peanut oil
-* 800g beef strips
-* 1 medium brown onion (150g), Sliced thinly
-* 3cm piece fresh ginger (15g), grated
-* 1 clove garlic, crushed
-* 1 medium red capsicum (200g), sliced thinly
-* 115g baby corn, halved lengthways
-* 450g hokkien noodles
-* &#8531; cup (115g) honey
-* &#8531; cup (80mL) teriyaki sauce
-* 1 tablespoon mirin
-
 #Directions
 1. Stir-fry sesame seeds in wok about 1 minute or until golden, remove from wok and set aside.
 2. Heat half the oil in wok; stri-fry beef, in batches, until browned.
