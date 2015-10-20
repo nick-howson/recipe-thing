@@ -1,0 +1,15 @@
+{% include head.html %}
+<body>
+ {% include navbar.html %}
+ <div class="container">
+<h1>{{ page.tag }}</h1>
+
+<ul>
+{% for recipe in site.recipes %}
+ {% if recipe.tags contains page.tag %}
+  <li><a href="{{ recipe.url }}">{{ recipe.title }}</a></li>
+ {% endif %} 
+{% endfor %}
+ </div><!-- /.container -->
+</body>
+{% include footer.html %}
