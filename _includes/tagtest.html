@@ -1,0 +1,5 @@
+{% for recipe in site.recipes %}
+ {% if recipe.tags contains singleTag  %}
+  <li><a href="{{ recipe.url }}">{{ recipe.title }}</a></li>
+ {% endif %} 
+{% endfor %}

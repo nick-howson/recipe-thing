@@ -8,8 +8,10 @@ cooktime: 20
 cookunits: minutes
 serves: 4
 tags: 
-- italian 
+- italian
+- pasta
 - sauce
+- vegetarian 
 ingredients: |
  #Ingredients
  * 2 tablespoons olive oil

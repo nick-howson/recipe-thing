@@ -1,0 +1,19 @@
+---
+layout: default
+title: Tags
+---
+
+<h1>{{ page.title }}</h1>
+<p>&nbsp;</p>
+
+{% for recipe in site.recipes %}
+   {% for tag in recipe.tags %} 
+	{% unless result contains tag %}
+        {% capture result %}{{ tag }}|{{ result }}{% endcapture %}
+    {% endunless %}
+   {% endfor %}	
+{% endfor %}
+{% assign singleTags = result | split: '|' %}
+{% for singleTag in singleTags %}
+<a href="/tags/{{singleTag}}/" class="btn btn-primary btn-xs">{{singleTag}}</a>
+{% endfor %}

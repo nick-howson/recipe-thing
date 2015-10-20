@@ -1,13 +1,17 @@
 ---
 layout: recipe
-title: Basic Tomato Sauce
+title: Basic tomato sauce
 source: http://www.taste.com.au/recipes/22515/basic+tomato+sauce
 preptime: 10
 prepunits: minutes
 cooktime: 25
 cookunits: minutes
 serves: 2 cups
-tags: italian sauce
+tags: 
+- italian
+- pasta
+- sauce
+- vegetarian 
 ingredients: |
  #Ingredients
  * 1 tablespoon olive oil
