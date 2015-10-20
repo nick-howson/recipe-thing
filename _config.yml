@@ -8,14 +8,9 @@ baseurl: ""
 url: "http://localhost:4001/"
 encoding: utf-8
 # permalink: none
-
-# Tag pages
-tag_page_layout: tag_page
-tag_page_dir: tag
-
 #Collection settings
 collections:
  recipes:
-   output: true
+  output: true
 # Build settings
 exclude: ["start_devserver.bat", "Gemfile", "Gemfile.lock"]
