@@ -3,7 +3,7 @@ title: Recipe Thing
 email: nick.howson@gmail.com
 description: Recepie things!
 # the subpath of your site, e.g. /blog/
-baseurl: "" 
+baseurl: "recipe-thing" 
 # the base hostname & protocol for your site
 url: "http://localhost:4001/"
 encoding: utf-8
@@ -13,4 +13,4 @@ collections:
  recipes:
   output: true
 # Build settings
-exclude: ["start_devserver.bat", "Gemfile", "Gemfile.lock"]
+exclude: ["start_devserver.bat", "Gemfile", "Gemfile.lock", "rakefile"]
