@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Amatriciana sauce
+title: Amatricana sauce
 source: http://www.taste.com.au/recipes/22517/amatriciana
 preptime: 20
 prepunits: minutes
