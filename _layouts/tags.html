@@ -4,27 +4,25 @@ title: Tags
 ---
 
 <h1>{{ page.title }}</h1>
-<p>&nbsp;</p>
-
 {% for recipe in site.recipes %}
-   {% for tag in recipe.tags %} 
-	{% unless result contains tag %}
-        {% capture result %}{{ tag }}|{{ result }}{% endcapture %}
-    {% endunless %}
-   {% endfor %}	
+	{% for tag in recipe.tags %} 
+		{% unless result contains tag %}
+			{% capture result %}{{ tag }}|{{ result }}{% endcapture %}
+		{% endunless %}
+	{% endfor %}	
 {% endfor %}
 {% assign singleTags = result | split: '|' %}
-{% for singleTag in singleTags %}
-<a href="#{{singleTag}}" class="btn btn-primary btn-xs">{{singleTag}}</a>
+{% assign sortedTags = singleTags | sort %}
+{% for singleTag in sortedTags %}
+	<a href="#{{singleTag}}" class="btn btn-primary btn-xs">{{singleTag}}</a>
 {% endfor %}
-<br><br>
-{% assign singleTags = result | split: '|' %}
-{% for singleTag in singleTags %}
-	<h2 id="{{singleTag}}">{{singleTag}}</a></h2>
+{% for singleTag in sortedTags %}
+	<h2 id="{{singleTag}}">{{singleTag}}</h2>
+	<ul>
 	{% for recipe in site.recipes %}
 		{% if recipe.tags contains singleTag %}
 			<li><a href="{{ recipe.url }}">{{ recipe.title }}</a></li>
 		{% endif %} 
 	{% endfor %}
+	</ul>
 {% endfor %}
-<br><br>
