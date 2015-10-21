@@ -16,12 +16,13 @@ title: Tags
  <div class="row">
  <div class="col-md-12">
 {% for singleTag in sortedTags %}
-	<button data-toggle="collapse" data-target="#{{singleTag}}" class="btn btn-primary btn-xs">{{singleTag}}</button>
+	<a data-toggle="pill" href="#{{singleTag}}" class="btn btn-primary btn-xs">{{singleTag}}</a>
 {% endfor %}
 </div>
 </div>
+<div class="tab-content">
 {% for singleTag in sortedTags %}
-	<div class="row collapse" id="{{singleTag}}">
+	<div class="row tab-pane fade" id="{{singleTag}}">
 	<div class="col-md-12">
 	<h2>{{singleTag}}</h2>
 	<ul>
@@ -34,3 +35,4 @@ title: Tags
 	</div>
 	</div>
 {% endfor %}
+</div>
