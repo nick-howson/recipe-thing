@@ -2,3 +2,4 @@
 _deploy/*
 _site/*
 Gemfile.lock
+tools/*
