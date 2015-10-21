@@ -13,11 +13,17 @@ title: Tags
 {% endfor %}
 {% assign singleTags = result | split: '|' %}
 {% assign sortedTags = singleTags | sort %}
+ <div class="row">
+ <div class="col-md-12">
 {% for singleTag in sortedTags %}
-	<a href="#{{singleTag}}" class="btn btn-primary btn-xs">{{singleTag}}</a>
+	<button data-toggle="collapse" data-target="#{{singleTag}}" class="btn btn-primary btn-xs">{{singleTag}}</button>
 {% endfor %}
+</div>
+</div>
 {% for singleTag in sortedTags %}
-	<h2 id="{{singleTag}}">{{singleTag}}</h2>
+	<div class="row collapse" id="{{singleTag}}">
+	<div class="col-md-12">
+	<h2>{{singleTag}}</h2>
 	<ul>
 	{% for recipe in site.recipes %}
 		{% if recipe.tags contains singleTag %}
@@ -25,4 +31,6 @@ title: Tags
 		{% endif %} 
 	{% endfor %}
 	</ul>
+	</div>
+	</div>
 {% endfor %}
