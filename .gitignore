@@ -3,3 +3,5 @@ _deploy/*
 _site/*
 Gemfile.lock
 rakefile
+_tools
+_phonegap
