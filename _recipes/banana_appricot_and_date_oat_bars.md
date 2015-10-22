@@ -8,6 +8,7 @@ cooktime:
 cookunits: minutes
 serves: 
 tags: 
+- baked
 ingredients: |
  #Ingredients
  * 3 large ripe bananas
