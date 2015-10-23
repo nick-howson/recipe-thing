@@ -3,7 +3,7 @@ title: Recipe Thing
 email: nick.howson@gmail.com
 description: Recepie things!
 # the subpath of your site, e.g. /blog/
-baseurl: "/recipe-thing/" 
+baseurl: "/recipe-thing" 
 # the base hostname & protocol for your site
 url: "http://nickhowson.id.au"
 encoding: utf-8
