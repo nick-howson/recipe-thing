@@ -8,11 +8,14 @@ cooktime: 10
 cookunits: minutes
 serves: 
 tags: 
+- stir-fry
+- asian
+- seafood
 ingredients: |
  #Ingredients
- * 125 g Trident 100% Rice Vermicelli noodles
+ * 125 g rice vermicelli noodles
  * 1 tbsp oil
- * 400 g Frozen Raw Peeled Prawns Tail On
+ * 400g prawns
  * 2 cups frozen peas
  * 2 tsp curry paste
  * 1 tbsp soy sauce

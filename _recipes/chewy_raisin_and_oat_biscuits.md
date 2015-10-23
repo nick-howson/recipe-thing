@@ -8,6 +8,8 @@ cooktime: 15
 cookunits: minutes
 serves: 12
 tags: 
+- baked
+- biscuits
 ingredients: |
  #Ingredients
  * 1 cup raisins

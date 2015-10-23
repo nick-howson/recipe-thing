@@ -8,6 +8,9 @@ cooktime: 30
 cookunits: minutes
 serves: 2
 tags: 
+- pork
+- noodles
+- asian
 ingredients: |
  #Ingredients
  * 3 green shallots, trimmed, thinly sliced

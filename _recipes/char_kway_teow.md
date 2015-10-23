@@ -8,6 +8,10 @@ cooktime: 15
 cookunits: minutes
 serves: 4
 tags: 
+- stir-fry
+- thai
+- asian
+- chicken
 ingredients: |
  #Ingredients
  * 250g chicken, thinly sliced

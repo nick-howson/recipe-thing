@@ -8,6 +8,9 @@ cooktime: N/A
 cookunits: 
 serves: 1 cup
 tags: 
+- sauce
+- chinese
+- asian
 ingredients: |
  #Ingredients
  * &#8531; cup hoisin sauce

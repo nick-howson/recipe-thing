@@ -8,6 +8,7 @@ cooktime: 5
 cookunits: hours
 serves: 
 tags: 
+- dessert
 ingredients: |
  #Ingredients
  * &#8531; cup white chia seeds

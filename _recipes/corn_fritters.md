@@ -8,9 +8,11 @@ cooktime: 25
 cookunits: minutes
 serves: 18
 tags: 
+- vegetarian
+- eggs
 ingredients: |
  #Ingredients
- * 1 cup White Wings Self-Raising Flour
+ * 1 cup self-raising flour
  * &frac12; cup buttermilk
  * 2 eggs
  * 420g can corn kernels, drained

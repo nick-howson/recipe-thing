@@ -8,6 +8,9 @@ cooktime: 15
 cookunits: minutes
 serves: 4
 tags: 
+- pasta
+- italian
+- seafood
 ingredients: |
  #Ingredients
  * 375g dried spaghetti pasta

@@ -8,6 +8,7 @@ cooktime: 25
 cookunits: minutes
 serves: 12
 tags: 
+- baked
 ingredients: |
  #Ingredients
  * 2 &frac12; cups self-raising flour

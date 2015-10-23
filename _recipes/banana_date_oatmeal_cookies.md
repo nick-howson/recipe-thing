@@ -7,7 +7,8 @@ prepunits: minutes
 cooktime: 15
 cookunits: minutes
 serves: 10
-tags: biscuit
+tags: 
+- biscuit
 ingredients: |
  #Ingredients
  * 1 Ripe Banana

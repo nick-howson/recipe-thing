@@ -8,6 +8,7 @@ cooktime:
 cookunits: minutes
 serves: 25
 tags: 
+- dessert
 ingredients: |
  #Ingredients
  * cooking oil spray

@@ -7,7 +7,9 @@ prepunits: minutes
 cooktime: 30
 cookunits: minutes
 serves: 4
-tags: []
+tags:
+- baked
+- dessert
 ---
 #Ingedients
 * 3 eggs
