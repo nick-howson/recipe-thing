@@ -5,7 +5,7 @@ description: Recepie things!
 # the subpath of your site, e.g. /blog/
 baseurl: "recipe-thing" 
 # the base hostname & protocol for your site
-# url: "https://www.googledrive.com/host/0B7-xHCmgECd2TWY2NnFWWXY4ckU"
+url: "http://nickhowson.id.au"
 encoding: utf-8
 # permalink: none
 #Collection settings
