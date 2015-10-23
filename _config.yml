@@ -5,7 +5,7 @@ description: Recepie things!
 # the subpath of your site, e.g. /blog/
 baseurl: "/recipe-thing" 
 # the base hostname & protocol for your site
-url: "http://nickhowson.id.au"
+#url: "http://nickhowson.id.au"
 encoding: utf-8
 # permalink: none
 #Collection settings

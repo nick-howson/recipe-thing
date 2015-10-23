@@ -5,3 +5,4 @@ Gemfile.lock
 rakefile
 _tools
 _phonegap
+start_devserver.bat
