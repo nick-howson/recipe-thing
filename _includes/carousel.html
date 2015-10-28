@@ -13,11 +13,11 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="/images/{{page.images | first}}" alt="Amatriciana Pasta">
+      <img src="{{site.baseurl}}/images/{{page.images | first}}" alt="Amatriciana Pasta">
     </div>
 	{% for image in page.images offset:1 %}
     <div class="item">
-      <img src="/images/{{image}}" alt="Amatriciana Pasta">
+      <img src="{{site.baseurl}}/images/{{image}}" alt="Amatriciana Pasta">
     </div>
 	{% endfor %}
   </div>
