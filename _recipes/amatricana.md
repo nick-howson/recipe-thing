@@ -24,6 +24,10 @@ ingredients: |
  * 1 small red chilli, finely chopped
  * &frac14; cup finely chopped fresh flat-leaf parsley leaves
  * Pasta
+images:
+- amatriciana-1.jpg
+- amatriciana-2.jpg
+- amatriciana-3.jpg
 ---
 ##Directions
 1. Heat oil in a saucepan over medium heat. Add onion, prosciutto, chilli flakes and garlic. Cook, stirring occasionally, for 5 minutes or until onion has softened.

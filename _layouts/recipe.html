@@ -6,9 +6,9 @@
   <div class="col-md-12"><h1>{{ page.title }}</h1></div>
  </div>
  <div class="row">
-  <div class="col-md-4"><p>Preperation time: {{ page.preptime }} {{ page.prepunits }}</p></div>
-  <div class="col-md-4"><p>Cooking time: {{ page.cooktime }} {{ page.cookunits }}</p></div>
-  <div class="col-md-4"><p>Servings: {{ page.serves }}</p></div>
+  <div class="col-md-3"><p>{% include carousel.html %}</p></div>
+  <div class="col-md-3"><p>Preperation time: {{ page.preptime }} {{ page.prepunits }}<br>Cooking time: {{ page.cooktime }} {{ page.cookunits }}<br>Servings: {{ page.serves }}</p></div>
+  <div class="col-md-6"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut bibendum at risus accumsan placerat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque condimentum eu elit rutrum convallis. Curabitur efficitur arcu odio. Duis pretium orci a leo faucibus, quis iaculis libero ultricies. Pellentesque eros lectus.</p></div>  
  </div>
  <div class="row">
   <div class="col-md-12">{% for ingredients in page.ingredients %}{{ ingredients | markdownify }}{% endfor %}</div>
@@ -23,6 +23,7 @@
    {% endfor %}
   </div>
  </div>
+  
 </div><!-- /.container -->
 </body>
 {% include footer.html %}
